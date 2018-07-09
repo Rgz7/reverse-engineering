@@ -1,0 +1,19 @@
+--Peid:(PACKAGE IDENTIFIED)
+    -plugins:
+        VerA
+        ADD Signature
+        Generic oep finder
+        Krypto analyzer
+        peid generic unpacker
+        
+--DIE(DETECT IT EASY)-PACKAGE IDENTIFIED
+
+
+---unpacket
+    Aspackdie,asprstripper for aspack shell
+    upx,fs,upx-ripper for upx
+    upx unpacket usege --> upx -d aa.exe
+    unpecompact for pecompact 
+
+        
+        
